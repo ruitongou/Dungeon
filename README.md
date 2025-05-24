@@ -14,5 +14,6 @@ You can use health potions to recover 20 health points, or magic scrolls to auto
 Type 'help' at any time for command assistance.  
 Remember to check your status in the command, and use your items and coins wisely.  
 Since all events are randomly generated, the game depends a lot on your luck!  
-
+Play several times to experience what different events can bring to you.  
+You can also try getting the hidden achievements!
 ### The adventure starts now!
