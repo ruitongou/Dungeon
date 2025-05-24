@@ -9,7 +9,7 @@ You will lose 2 health points for every level you complete.
 You can find weapons, armor, items (health potions, magic scrolls), and coins in treasure chests.  
 You can also meet a merchant who will sell you items.  
 You may encounter some monsters on some levels, defeating them will give you loot (item or coins).  
-You can use health potions to recover 30 health points, or magic scrolls to automatically defeat monsters instantly (without loot).
+You can use health potions to recover 20 health points, or magic scrolls to automatically defeat monsters instantly (without loot).
 ### Suggestions
 Type 'help' at any time for command assistance.  
 Remember to check your status in the command, and use your items and coins wisely.  
