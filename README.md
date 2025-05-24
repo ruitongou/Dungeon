@@ -1,4 +1,4 @@
-# Dungeon Game
+# Dungeon Challenge
 ### Background
 You are a brave adventurer going into a dungeon with a big treasure at the deepest level.  
 This dungeon has attracted a lot of adventurers, but no one has gotten the treasure yet.  
