@@ -19,14 +19,14 @@ class Player:
         if self.items['health potion'] > 0:
             if self.health >= 100:
                 print("You are already at full health!")
-            elif self.health + 30 > 100:
+            elif self.health + 20 > 100:
                 self.health = 100
                 self.items['health potion'] -= 1
                 print("You used a health potion and recovered to full health!")
             else:
-                self.health += 30
+                self.health += 20
                 self.items['health potion'] -= 1
-                print("You used a health potion and recovered 30 health.")
+                print("You used a health potion and recovered 20 health.")
         
         else:
             print("You do not have a health potion!")
@@ -110,7 +110,7 @@ def encounter_monster(player, level):
             if hp <= 0:
                 loot_type = random.choice(['coins', 'item'])
                 if loot_type == 'coins':
-                    coins = random.randint(10, 25)
+                    coins = random.randint(10, 20)
                     player.coins += coins
                     print(f"You defeated the {name} and found {coins} coins!")
                 else:
